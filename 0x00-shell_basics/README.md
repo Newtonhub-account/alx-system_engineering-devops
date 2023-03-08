@@ -1,2 +1,1 @@
-#!/bin/bash
-echo "printing script"
+making scripts
